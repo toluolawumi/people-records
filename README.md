@@ -1,7 +1,7 @@
 # people-records
 A CRUD API that contains records of individuals
 
-Hosted on Heroku Link: 
+Hosted on Heroku: https://people-records.herokuapp.com/
 
 This API was created using the following:
 - NodeJS
@@ -21,3 +21,5 @@ Routes used are as follows:
  - PUT request to "/records/:id" to update a single record
  - GET request to "/records/:id" to retrieve a single record in the database
  - DELETE request to "/records/:id" to delete a single record in the database
+
+All routes can be tested via postman using the above routes
